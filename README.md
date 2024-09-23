@@ -10,7 +10,7 @@ You can start with downloading this project zip file or cloning this repo.
 
 Note: Ensure you have the dependencies installed.
 
-After installed the dependencies, you can start the application using 
+After installing the dependencies, you can start the application using 
 
 `npm start`
 
